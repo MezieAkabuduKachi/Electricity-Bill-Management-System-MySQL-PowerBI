@@ -7,7 +7,9 @@ https://www.novypro.com/profile_projects/kachikene
 
 # DATA USED
 DATA - Electricity Bill Management System Data of 39 rows for the Month of May
+
 DATA ANALYSIS - MySQL
+
 DATA VISUALIZATION - PowerBI
 
 # QUESTIONS
